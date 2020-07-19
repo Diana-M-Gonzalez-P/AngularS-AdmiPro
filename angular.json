@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "admipro"
+    }
+  },
+  "defaultProject": "admipro",
+  "cli": {
+    "analytics": false
+  }
 }
